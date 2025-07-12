@@ -20,8 +20,10 @@ Prever corretamente a **categoria de um usuário** com base em um conjunto de at
 
 ## 📊 Modelos Avaliados
 
-- Regressão Logística
+- Decision Tree Classifier
 - Random Forest Classifier
+- K-Nearest Neighbors (KNN)
+- Support Vector Classifier (SVC)
 - XGBoost Classifier
 
 ---
